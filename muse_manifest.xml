@@ -1,0 +1,214 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aidenskill.com" resolutions="1x" timestamp="1621996223466">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="522031531" ref="index:música:contacto:vídeos:blog"/>
+    <file name="index.css" crc="125467081" ref="index"/>
+    <file name="m_sica.css" crc="4227506541" ref="música"/>
+    <file name="contacto.css" crc="123990527" ref="contacto"/>
+    <file name="v_deos.css" crc="4215840394" ref="vídeos"/>
+    <file name="blog.css" crc="237741242" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:música:vídeos:blog:contacto"/>
+    <file name="museutils.js" crc="3939489907" ref="index:música:vídeos:blog:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:música:vídeos:blog:contacto"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:música:vídeos:blog:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:música:blog"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:música:vídeos:blog:contacto"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u701.php" crc="4083071579" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:música:vídeos:blog:contacto"/>
+    <file name="form-u889.php" crc="516543435" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo as blanco.png" crc="4211468948" seo="true" ref="index:música:vídeos:blog:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="vídeos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="fb.png" crc="3861762417" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb azul.png" crc="484972986" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="insta.png" crc="198232709" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="insta azul.png" crc="4110222873" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="356307501" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter azul.png" crc="435870986" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spotify.png" crc="4197158927" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spotify azul.png" crc="4048351437" ref="index:música">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="soundcloud.png" crc="3966063430" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud azul.png" crc="70575554" ref="index:música">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="youtube.png" crc="280902768" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube azul.png" crc="372471916" ref="index:música">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u231_states.png" crc="3820165461" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u231_states-r.png" crc="454604620" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u562_states.png" crc="221211629" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u562_states-r.png" crc="485851567" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u232_states.png" crc="3801150145" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u232_states-r.png" crc="466497413" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u233_states.png" crc="22548458" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u233_states-r.png" crc="1718209" ref="index:música:vídeos:blog:contacto"/>
+    <file name="1 slider.jpg" crc="10642253" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2 slider.jpg" crc="4036789243" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3 slider.jpg" crc="231109511" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sobre mi.jpg" crc="4243701938" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u692-4.png" crc="475664429" ref="index"/>
+    <file name="u693-12.png" crc="4234962796" ref="index"/>
+    <file name="u698-4.png" crc="85940851" ref="index"/>
+    <file name="u717.png" crc="434340663" ref="index"/>
+    <file name="u717-r.png" crc="257550244" ref="index"/>
+    <file name="u706-fs.png" crc="38071156" ref="index"/>
+    <file name="u716-fse.png" crc="3993886861" ref="index"/>
+    <file name="u707-fss.png" crc="105420618" ref="index"/>
+    <file name="u242-4.png" crc="3888241654" ref="index:música:vídeos:blog:contacto"/>
+    <file name="u1138-4.png" crc="3907331716" ref="música"/>
+    <file name="u1737-4.png" crc="4144587438" ref="música"/>
+    <file name="u1462-5.png" crc="3813801552" ref="música"/>
+    <file name="spotify negro.png" crc="4091361986" ref="música">
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="soundcloud negro.png" crc="183833532" ref="música">
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="youtube negro.png" crc="4128275390" ref="música">
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="u1568-5.png" crc="4162456101" ref="música"/>
+    <file name="despues de pegar.jpg" crc="289852214" ref="música:blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="1 musica.jpg" crc="329852640" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="mentira.jpg" crc="3836604310" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="2 musica.jpg" crc="407494507" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="u1201-7.png" crc="107228740" ref="música"/>
+    <file name="u1210-7.png" crc="4031979993" ref="música"/>
+    <file name="u1725-5.png" crc="3813801552" ref="música"/>
+    <file name="u1710-5.png" crc="4162456101" ref="música"/>
+    <file name="pecados.jpg" crc="174710971" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="3 musica.jpg" crc="107646761" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="desde morros.jpg" crc="310156249" ref="música:blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="4 musica.jpg" crc="211838579" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="u1216-7.png" crc="3766093966" ref="música"/>
+    <file name="u1219-7.png" crc="4110686464" ref="música"/>
+    <file name="u1027-4.png" crc="3969557723" ref="vídeos"/>
+    <file name="u1749-4.png" crc="411266712" ref="vídeos"/>
+    <file name="u1054-7.png" crc="4132773589" ref="vídeos"/>
+    <file name="u1057-7.png" crc="4043981525" ref="vídeos"/>
+    <file name="u1075-7.png" crc="3852149825" ref="vídeos"/>
+    <file name="u1087-7.png" crc="513403620" ref="vídeos"/>
+    <file name="u1120-4.png" crc="168606607" ref="blog"/>
+    <file name="u1755-4.png" crc="36311004" ref="blog"/>
+    <file name="ver video 1.jpg" crc="3889596373" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u2156-17.png" crc="460066669" ref="blog"/>
+    <file name="u2170-16.png" crc="110099518" ref="blog"/>
+    <file name="aiden skill blog.jpg" crc="3910304675" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="aiden skill blog rollover.jpg" crc="4227725622" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="ver video 2.jpg" crc="378790052" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="u2153-18.png" crc="4261102800" ref="blog"/>
+    <file name="u1048-4.png" crc="463307777" ref="contacto"/>
+    <file name="u1995-4.png" crc="407632873" ref="contacto"/>
+    <file name="u905.png" crc="228088988" ref="contacto"/>
+    <file name="u905-r.png" crc="57206509" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="3869739647" seo="true" mt="1621996218640" redirect="true"/>
+  <file name="música.html" crc="416892213" seo="true" mt="1621996135321" redirect="true"/>
+  <file name="vídeos.html" crc="369605191" seo="true" mt="1621996145805" redirect="true"/>
+  <file name="blog.html" crc="193061020" seo="true" mt="1621996135325" redirect="true"/>
+  <file name="contacto.html" crc="55482342" seo="true" mt="1621996135327" redirect="true"/>
+</manifest>
